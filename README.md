@@ -1,5 +1,3 @@
-# Heart-Disease-prediction
-🩺 Heart Disease Prediction using Machine Learning : This project uses machine learning to predict heart disease based on medical data such as age, sex, chest pain type, cholesterol, and heart rate. The workflow includes data preprocessing, model training, evaluation, and user input-based prediction.
 # 🏥 Heart Disease Prediction: Save Lives with AI
 
 This project applies **Machine Learning** to predict diseases from medical data, built during the **DevTown x Microsoft Student Chapter (MSIT) x Google Developers Group VIT-AP bootcamp (Aug 2025)**.
